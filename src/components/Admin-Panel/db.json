@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bluetooth Headphones",
+      "desc": "Noise cancelling • 30hr battery",
+      "price": 2499,
+      "image": "/images/p1.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Classic Leather Wallet",
+      "desc": "Slim • RFID safe",
+      "price": 799,
+      "image": "/images/p2.jpg",
+      "category": "Womens Fashion"
+    },
+    {
+      "id": 3,
+      "name": "LED Desk Lamp",
+      "desc": "Adjustable brightness • USB",
+      "price": 1799,
+      "image": "/images/p3.jpg",
+      "category": "Home Decor"
+    },
+    {
+      "id": 4,
+      "name": "Women's Georgette Solid Anarkali Dress",
+      "desc": "Material: Georgette • Occasion: Wedding • Sleeve: Full Sleeve • Style: Fit & Flare",
+      "price": 1477,
+      "image": "/images/dress.jpg",
+      "category": "Womens Fashion"
+    },
+    {
+      "id": 5,
+      "name": "Gold Plated Chain",
+      "desc": "Pink & Green Beads Design Chain",
+      "price": 850,
+      "image": "/images/chain.jpg",
+      "category": "Womens Fashion"
+    },
+    {
+      "id": 6,
+      "name": "Women Washed Skinny Fit Jeans",
+      "desc": "Model wears size 28 • Height 5'7\"",
+      "price": 499,
+      "image": "/images/jeans.jpg",
+      "category": "Womens Fashion"
+    }
+  ]
+}
